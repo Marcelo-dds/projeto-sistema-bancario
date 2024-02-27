@@ -22,11 +22,8 @@ while True:
     
     elif opcao == "s":
         print("Saque")
-    
     elif opcao == "e":
         print("Extrato")
-    
-    elif opcao == "q":
         break
     
     else:
